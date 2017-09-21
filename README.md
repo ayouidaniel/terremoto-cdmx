@@ -58,7 +58,8 @@ Revisa los issues etiquetados para cada grupo de trabajo y únete a la conversac
 |Tweetbot  desaparecidos, sismo 2017 | Bot inteligente en twitter responde a busquedas de personas |  [https://github.com/regenhans/earthquake-bot](https://github.com/regenhans/earthquake-bot)| `#sismomx-bots`| node.js | 
 | [SMS Alerts](https://sismomx-sms.herokuapp.com/) | Send SMS alerts for the earthquake in mexico | [https://github.com/denialtorres/SMS-ALERTS](https://github.com/denialtorres/SMS-ALERTS]) | `#equipo-humanitario` | Ruby on Rails 4.2 | 
 | Información Valiosa de Twitter | Filtra información valiosa relacionada al terremoto | [https://github.com/Garyi/Filtro-Informaci-n-Valiosa-Terremoto-Twitter](https://github.com/Garyi/Filtro-Informaci-n-Valiosa-Terremoto-Twitter) | `#equipo-humanitario`  | Python | 
-| Quake Relief CDMX | Encontrar las necesidades más prioritarias por zona para enviar ayuda y notificar | [https://github.com/civica-digital/quake-relief-cdmx](https://github.com/civica-digital/quake-relief-cdmx) | `#sismomx-realtime` | Ruby on Rails 5 | 
+| Quake Relief CDMX | Encontrar las necesidades más prioritarias por zona para enviar ayuda y notificar | [https://github.com/civica-digital/quake-relief-cdmx](https://github.com/civica-digital/quake-relief-cdmx) | `#sismomx-realtime` | Ruby on Rails 5 |
+| Mi Policía (CDMX) | Obtener el número del cuadrante de la SSP en el cual te encuentras. [https://mipolicia.com](https://mipolicia.com) | [https://github.com/ayouidaniel/MiPolicia](https://github.com/ayouidaniel/MiPolicia) | `#emergencia-ssp` | Javascript - Vue.js | 
 
 ## Contribuye con este sitio
 
